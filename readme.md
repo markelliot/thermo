@@ -49,3 +49,6 @@ After setting up your environment variables and tables you can directly run read
 ```
 ./read.py
 ```
+
+To run and leave running you may find it convenient to set up a cron job to start read.py,
+on startup, or to run the script in a screen session.
