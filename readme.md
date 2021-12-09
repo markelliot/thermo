@@ -18,7 +18,7 @@ Service Dependencies
 Usage
 -----
 Configure two environment variables, commonly stored in your profile or rc file, `SUPABASE_API_KEY`
-and `SUPABASE_HOST`. The values vor these variables can be found in your Supabase account's API
+and `SUPABASE_HOST`. The values for these variables can be found in your Supabase account's API
 documentation.
 
 Using `read.py` requires configuring your Supabase database to have a table named `readings`:
